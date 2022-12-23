@@ -2,7 +2,7 @@
 This repository contains a modern C++ implementation of the Sleep Sort algorithm, with proper comments.
 
 # Code from [main.cpp](main.cpp)
-````
+```
 #include <iostream>
 #include <vector>
 #include <thread>
